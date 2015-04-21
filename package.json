@@ -31,7 +31,7 @@
     "mysql": "^2.5.5",
     "sqlite3": "^3.0.5"
   },
-  "dependencies": {
+  "peerDependencies": {
     "sequelize": "^2.0.4"
   }
 }
